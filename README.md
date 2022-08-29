@@ -2,7 +2,7 @@
 
 ## Crye
 ### Armor Components
-##### CPC Side Soft Armor Insert, Model P/N: INS-D01
+#### CPC Side Soft Armor Insert, Model P/N: INS-D01
 This soft armor panel adds side protection to the CPC™ and JPC™. Exceeds IBA and USASOC frag and handgun requirements.
 
 Sizes:
@@ -17,7 +17,7 @@ Sizes:
 Ambient, 0° obliquity except as noted
 
 
-##### Platebag Soft Armor Insert, Model P/N: INS-PS0
+#### Platebag Soft Armor Insert, Model P/N: INS-PS0
 Soft armor panel for use with non-standalone plates. 
 
 Sizes:
@@ -30,7 +30,7 @@ Sizes:
 
 Ambient, 0° obliquity except as noted
 
-##### Side Soft Armor Insert, Model P/N: INS-SA9
+#### Side Soft Armor Insert, Model P/N: INS-SA9
 This soft armor panel is sized to fit behind 6”x 6” and 6”x 9” armor plates.
 
 Sizes:
