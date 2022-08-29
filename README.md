@@ -3,8 +3,8 @@
 ## Crye
 ### Armor Components
 #### CPC Side Soft Armor Insert
-Ballistic Spec:
-|               |                 |                |                |               |                               |
+ 
+|           Ballistic Spec:                                                                                         |
 | -----------   | -----------     | -----------    | -----------    | -----------   | -----------                   |
 | 2 gr RCC V50  | 4 gr RCC V50    | 16 gr RCC V50  | 64 gr RCC V50  | 17 gr FSP V50 | 9mm 124 gr FMJ V0 0° & 30°    |
 | ≥ 2710 ft/s   | ≥ 2400 ft/s     | ≥ 2050 ft/s    | ≥ 1660 ft/s    | ≥ 1850 ft/s	  | 1400+50/-0 ft/s ≤ 44.0 mm BFD |
