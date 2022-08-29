@@ -1,7 +1,7 @@
 # Soft Armor
 
 ## Crye
-### **Armor Components**
+### Armor Components
 #### CPC Side Soft Armor Insert
  
 | Ballistic Spec: |                 |                |                |               |                               | 
@@ -14,4 +14,4 @@ Sizes:
   - Size 2: 6" x 11.5" @ 0.52 lbs. per panel (designed to fit LG/XL CPC™)
 #### Platebag Soft Armor Insert
 #### Side Soft Armor Insert
-### **LVS**
+### LVS
