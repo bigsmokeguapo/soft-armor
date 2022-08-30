@@ -1,0 +1,30 @@
+* {
+  background: #eef2ff;
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #af0a0f;
+}
+
+h4 {
+  background-color: #d6daf0;
+  border: 0.1em solid #b7c5d9;
+  padding: 0.2em 0.2em;
+}
+
+table {
+  width: 75%;
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+td {
+  border: 1px solid black;
+  padding: 0.2em;
+}
+
+td:hover {
+  background-color: #d6daf0;
+}
